@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.f-size{
+    font-size: 10px;
+    font-weight: bolder;
+}
+.p-size{
+    font-size: 8px;
+}
+.hide{
+display: none;
+}
+.card-body{
+ padding-bottom: 0!important;  
+}
+.row>*{
+    padding: 0 !important;
+}
+.hig{
+    height: 82vh;
+}
+.caros{
+    cursor: pointer;
+}
